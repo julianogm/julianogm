@@ -36,8 +36,6 @@ I know a little of each, and I'm trying to improve every day. I also intend to l
 <img src='https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black'>
 <img src='https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white'>
 <img src='https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white'>
-<img src=''>
-
 
 ___
 <p><img src="https://github-readme-stats.vercel.app/api?username=julianogm&theme=github_dark">
