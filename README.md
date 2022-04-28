@@ -9,7 +9,6 @@ ___
 [![Gmail Badge](https://img.shields.io/badge/-julianoaugusto22@gmail.com-red?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:julianoaugusto22@gmail.com)](mailto:julianoaugusto22@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Juliano%20Marques-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoagm/)](https://www.linkedin.com/in/julianoagm/)
 [![Telegram Badge](https://img.shields.io/badge/JulianoGM-white?style=flat-circle&logo=Telegram&logoColor=white&link=https://t.me/JulianoGM)](https://t.me/JulianoGM)
-[![Steam Badge](https://img.shields.io/badge/juba-001a33?style=flat-circle&for-the-badge&logo=steam&link=https://steamcommunity.com/id/dearmrfantasy/)](https://steamcommunity.com/id/dearmrfantasy/)
 
 ___
 <h3>Languages and Tools</h3>
