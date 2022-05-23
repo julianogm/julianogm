@@ -1,9 +1,13 @@
 <div align='left'>
 
-<h2>Hello 👋</h2>
+<h2>Hi there 👋</h2>
 
-I'm a Computer Science student who likes to solve problems. I like almost everything related to science (especially physics).
-___
+- I’m currently working on a Telegram chatbot for my undergraduate thesis
+- I’m learning C#
+- I intend to learn Rust, Elixir and Flutter
+- Trying to get better at Apis, Ruby, Rails, tests (you can ask me about it, I'll tell you what I know)
+- Random fact: I have 3 guitars (2 acoustic and 1 electric) but I can barely play 2 songs
+
 <h3>📫 How to reach me</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-julianoaugusto22@gmail.com-red?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:julianoaugusto22@gmail.com)](mailto:julianoaugusto22@gmail.com)
@@ -14,7 +18,7 @@ ___
 <h3>Languages and Tools</h3>
 
 
-Here are some tools that I use on a daily basis. I also intend to learn C# and Elixir.
+Here are some languages ​​and tools that I use most often.
 
 <img src='https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white'>
 <img src='https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white'>
