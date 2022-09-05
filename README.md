@@ -1,20 +1,19 @@
 <div align='left'>
 
-<h2>Hello there</h2>
+## Hello there
 
 - I’m currently working on a Telegram chatbot for my undergraduate thesis
 - I’m learning C#
 - I intend to learn Rust, Elixir and Flutter
 - Trying to get better at APIs, Ruby on Rails and Automated Tests (you can ask me about it, I'll tell you what I know)
-___
-<h2>How to reach me</h2>
+
+## How to reach me
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:julianoaugusto22@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/julianoagm/)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=000000&label=)](https://t.me/JulianoGM)
 
-___
-<h2>Stack</h2>
+## Stack
 
 Here are some languages ​​and tools that I use most often.
 
@@ -40,7 +39,11 @@ Here are some languages ​​and tools that I use most often.
 <!-- ![RabbitMQ](https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=) -->
 
 ___
-<p><img src="https://github-readme-stats.vercel.app/api?username=julianogm&theme=github_dark">
-</p>
+<i>"... Yeah runnin' down a dream<br>
+That never would come to me<br>
+Workin' on a mystery, goin' wherever it leads<br>
+Runnin' down a dream"</i> - Tom Petty
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=julianogm&theme=github_dark"> -->
 
 </div>
