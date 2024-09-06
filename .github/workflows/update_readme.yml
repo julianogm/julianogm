@@ -1,0 +1,28 @@
+name: Daily commit with FavQs quotes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo checkout
+        uses: actions/checkout@v2
+
+      - name: Run update_readme.sh
+        run: ./update_readme.sh
+
+      - name: Config Git
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "{GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Commit and Push
+        run: |
+          git add README.md
+          git commit -m "updating README"
+          git push
