@@ -6,5 +6,5 @@
 ---
 
 <!-- quote_marker -->
-> "Own Less, Live More" - Anonymous
+> "To be a poet is a condition, not a profession." - Robert Frost
 
