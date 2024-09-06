@@ -6,5 +6,5 @@
 ---
 
 <!-- quote_marker -->
+> "Own Less, Live More" - Anonymous
 
-> "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope." - Maya Angelou
