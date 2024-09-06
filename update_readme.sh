@@ -9,29 +9,27 @@ while true; do
   quote=$(echo "$response" | jq -r '.quote.body')
 
   if [[ ! "$author" =~ $excluded_authors ]]; then
-    echo "Citação aceita: \"$quote\" - $author"
+    echo "Quote accepted: \"$quote\" - $author"
     break
   fi
 done
 
+current_date=$(date +"%A, %B %d, %Y")
+
 marker="<!-- quote_marker -->"
 tmp_file=$(mktemp)
 
-awk -v marker="$marker" -v quote="> \"$quote\" - $author" '
+date="$current_date. Quote of the day:\n"
+
+awk -v marker="$marker" -v date_msg="$date" -v quote="> \"$quote\" - $author" '
 BEGIN { found_marker = 0 }
 {
-  if ($0 == marker) {
-    found_marker = 1;
-    print;
-    print quote;
-    next;
-  }
-  
-  if (found_marker && $0 ~ /^> "/) {
-    next;
-  }
-
   print;
+  if ($0 == marker) {
+    print date_msg;
+    print quote;
+    exit;
+  }
 }
 ' README.md > "$tmp_file"
 

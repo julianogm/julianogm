@@ -1,10 +1,12 @@
-<div align='left'>
-
 - Working with RoR and AWS
 - Learning Go
 
 ---
 
-<!-- quote_marker -->
-> "Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." - Anne Frank
+<br>
 
+<!-- quote_marker -->
+
+Friday, September 06, 2024. Quote of the day:
+
+> "We have one life it soon will be past what we do for God is all that will last." - Muhammad Ali
