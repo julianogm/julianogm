@@ -8,4 +8,4 @@
 <!-- quote_marker -->
 Saturday, September 07, 2024. Quote of the day:
 
-> "This is my quote for performance testing" - Adina
+> "I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be." - Ken Venturi
