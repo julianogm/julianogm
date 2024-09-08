@@ -8,4 +8,4 @@
 <!-- quote_marker -->
 Sunday, September 08, 2024. Quote of the day:
 
-> "Life is what happens to you while you're making other plans." - Napoleon Hill
+> "Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief." - Marcus Tullius Cicero
