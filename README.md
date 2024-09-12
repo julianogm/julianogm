@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, September 11, 2024. Quote of the day:
+Thursday, September 12, 2024. Quote of the day:
 
-> "Happiness is like a butterfly: the more you chase it, the more it will elude you, but if you turn your attention to other things, it will come and sit softly on your shoulder." - Henry David Thoreau
+> "The best way to get a bad law repealed is to enforce it strictly." - Abraham Lincoln
