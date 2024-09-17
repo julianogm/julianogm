@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, September 16, 2024. Quote of the day:
+Tuesday, September 17, 2024. Quote of the day:
 
-> "The fewer the facts, the stronger the opinion." - Arnold H. Glasow
+> "I had rather have a fool to make me merry than experience to make me sad and to travel for it too!" - William Shakespeare
