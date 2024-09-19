@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, September 18, 2024. Quote of the day:
+Thursday, September 19, 2024. Quote of the day:
 
-> "For awhile after you quit Keats all other poetry seems to be only whistling or humming." - F. Scott Fitzgerald
+> "Tell me, why is the media here so negative? Why are we in India so embarrassed to recognise our own strengths, our achievements? We are such a great nation. We have so many amazing success stories but we refuse to acknowledge them. Why?" - Abdul Kalam
