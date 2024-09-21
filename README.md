@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, September 20, 2024. Quote of the day:
+Saturday, September 21, 2024. Quote of the day:
 
-> "But time growing old teaches all things." - Aeschylus
+> "When I have a dream, I don't have a life.  I live for the dream." - Yossi Ghinsberg
