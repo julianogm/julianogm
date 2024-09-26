@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, September 25, 2024. Quote of the day:
+Thursday, September 26, 2024. Quote of the day:
 
-> "Life without fun is too boring." - Natasha Yakovleva
+> "Let not your heart be offended with anyone… Beware! Beware! lest ye offend any heart." - Abdu'l-Baha
