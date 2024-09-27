@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, September 26, 2024. Quote of the day:
+Friday, September 27, 2024. Quote of the day:
 
-> "Let not your heart be offended with anyone… Beware! Beware! lest ye offend any heart." - Abdu'l-Baha
+> "[Lisp is the] greatest single programming language ever designed." - Alan Kay
