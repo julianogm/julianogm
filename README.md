@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, September 27, 2024. Quote of the day:
+Saturday, September 28, 2024. Quote of the day:
 
-> "[Lisp is the] greatest single programming language ever designed." - Alan Kay
+> "The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity." - Ruby Dee
