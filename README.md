@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, September 28, 2024. Quote of the day:
+Sunday, September 29, 2024. Quote of the day:
 
-> "The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity." - Ruby Dee
+> "Follow your body because most of the time it knows where to go" - Giovanni Morassutti 
