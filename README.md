@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, September 29, 2024. Quote of the day:
+Monday, September 30, 2024. Quote of the day:
 
-> "Follow your body because most of the time it knows where to go" - Giovanni Morassutti 
+> "Make everything as simple as possible, but not simpler." - Anonymous
