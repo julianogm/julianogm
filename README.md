@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, October 02, 2024. Quote of the day:
+Thursday, October 03, 2024. Quote of the day:
 
-> "A man's got to take a lot of punishment to write a really funny book." - Ernest Hemingway
+> "You must be the change you wish to see in the world." - Mahatma Gandhi
