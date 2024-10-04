@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, October 03, 2024. Quote of the day:
+Friday, October 04, 2024. Quote of the day:
 
-> "You must be the change you wish to see in the world." - Mahatma Gandhi
+> "For having lived long, I have experienced many instances of being obliged, by better information or fuller consideration, to change opinions, even on important subjects, which I once thought right but found to be otherwise." - Benjamin Franklin
