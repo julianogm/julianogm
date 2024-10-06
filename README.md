@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, October 05, 2024. Quote of the day:
+Sunday, October 06, 2024. Quote of the day:
 
-> "This is my quote for performance testing" - Adina
+> "If you think of yourselves as helpless and ineffectual, it is certain that you will create a despotic government to be your master. The wise despot, therefore, maintains among his subjects a popular sense that they are helpless and ineffectual." - Frank Herbert
