@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, October 07, 2024. Quote of the day:
+Tuesday, October 08, 2024. Quote of the day:
 
-> "Everyone went donuts over them" - Leslie Hochsztein
+> "The time is always right to do what is right." - Martin Luther King, Jr.
