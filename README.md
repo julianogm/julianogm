@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, October 09, 2024. Quote of the day:
+Thursday, October 10, 2024. Quote of the day:
 
-> "Poetry is the synthesis of hyacinths and biscuits." - Carl Sandburg
+> "There is no failure except in no longer trying." - Elbert Hubbard
