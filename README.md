@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, October 15, 2024. Quote of the day:
+Wednesday, October 16, 2024. Quote of the day:
 
-> "We are continually faced by great opportunities brilliantly disguised as insoluble problems." - Lee Iacocca
+> "Wise men make more opportunities than they find." - Francis Bacon
