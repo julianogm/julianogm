@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, October 16, 2024. Quote of the day:
+Thursday, October 17, 2024. Quote of the day:
 
-> "Wise men make more opportunities than they find." - Francis Bacon
+> "Constantly think about how you could be doing things better and keep questioning yourself." - Elon Musk
