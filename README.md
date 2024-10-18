@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, October 17, 2024. Quote of the day:
+Friday, October 18, 2024. Quote of the day:
 
-> "Constantly think about how you could be doing things better and keep questioning yourself." - Elon Musk
+> "Management is doing things right; leadership is doing the right thing." - Peter F. Drucker
