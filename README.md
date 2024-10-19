@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, October 18, 2024. Quote of the day:
+Saturday, October 19, 2024. Quote of the day:
 
-> "Management is doing things right; leadership is doing the right thing." - Peter F. Drucker
+> "Tie your self worth to something that you will lose, and you'll be left with nothing." - SevenSevens
