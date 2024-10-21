@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, October 20, 2024. Quote of the day:
+Monday, October 21, 2024. Quote of the day:
 
-> "Every artist was first an amateur." - Ralph Waldo Emerson
+> "Leave all the afternoon for exercise and recreation, which are as necessary as reading. I will rather say more necessary because health is worth more than learning." - Thomas Jefferson
