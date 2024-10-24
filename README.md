@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, October 23, 2024. Quote of the day:
+Thursday, October 24, 2024. Quote of the day:
 
-> "Opportunities are usually disguised as hard work, so most people don't recognize them." - Ann Landers
+> "Great acts are made up of small deeds." - Lao Tzu
