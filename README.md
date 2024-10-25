@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, October 24, 2024. Quote of the day:
+Friday, October 25, 2024. Quote of the day:
 
-> "Great acts are made up of small deeds." - Lao Tzu
+> "Happiness is secured through virtue; it is a good attained by man's own will." - Thomas Aquinas
