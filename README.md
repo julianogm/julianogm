@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, October 25, 2024. Quote of the day:
+Saturday, October 26, 2024. Quote of the day:
 
-> "Happiness is secured through virtue; it is a good attained by man's own will." - Thomas Aquinas
+> "A strong argument for the religion of Christ is this - that offences against Charity are about the only ones which men on their death-beds can be made - not to understand - but to feel - as crime." - Edgar Allan Poe
