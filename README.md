@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, October 28, 2024. Quote of the day:
+Tuesday, October 29, 2024. Quote of the day:
 
-> "Art never improves, but... the material of art is never quite the same." - T. S. Eliot
+> "Growth for the sake of growth is the ideology of the cancer cell." - Edward Abbey
