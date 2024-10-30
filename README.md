@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, October 29, 2024. Quote of the day:
+Wednesday, October 30, 2024. Quote of the day:
 
-> "Growth for the sake of growth is the ideology of the cancer cell." - Edward Abbey
+> "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." - Walt Whitman
