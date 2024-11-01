@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, October 31, 2024. Quote of the day:
+Friday, November 01, 2024. Quote of the day:
 
-> "Freedom is the right to tell people what they do not want to hear." - George Orwell
+> "The best thing about the future is that it comes one day at a time." - Abraham Lincoln
