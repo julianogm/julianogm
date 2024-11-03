@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, November 02, 2024. Quote of the day:
+Sunday, November 03, 2024. Quote of the day:
 
-> "Chop your own wood and it will warm you twice." - Henry Ford
+> "A women who doesn't wear perfume has no future." - Coco Chanel
