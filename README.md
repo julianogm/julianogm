@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, November 03, 2024. Quote of the day:
+Monday, November 04, 2024. Quote of the day:
 
-> "A women who doesn't wear perfume has no future." - Coco Chanel
+> "If you don't know how great this country is, I know someone who does; Russia." - Robert Frost
