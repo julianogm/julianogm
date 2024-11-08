@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, November 07, 2024. Quote of the day:
+Friday, November 08, 2024. Quote of the day:
 
-> "This world is but a canvas to our imagination." - Henry David Thoreau
+> "In art as in love, instinct is enough." - Anatole France
