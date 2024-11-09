@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, November 08, 2024. Quote of the day:
+Saturday, November 09, 2024. Quote of the day:
 
-> "In art as in love, instinct is enough." - Anatole France
+> "It is utterly false and cruelly arbitrary to put all the play and learning into childhood, all the work into middle age, and all the regrets into old age." - Margaret Mead
