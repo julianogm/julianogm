@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, November 12, 2024. Quote of the day:
+Wednesday, November 13, 2024. Quote of the day:
 
-> "Love is metaphysical gravity." - R. Buckminster Fuller
+> "Speak only if it improves upon the silence." - Mahatma Gandhi
