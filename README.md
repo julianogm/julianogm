@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, November 13, 2024. Quote of the day:
+Thursday, November 14, 2024. Quote of the day:
 
-> "Speak only if it improves upon the silence." - Mahatma Gandhi
+> "To be pure and holy in all things is a necessary characteristic of the unenslaved mind." - Abdu'l-Baha
