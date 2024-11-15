@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, November 14, 2024. Quote of the day:
+Friday, November 15, 2024. Quote of the day:
 
-> "To be pure and holy in all things is a necessary characteristic of the unenslaved mind." - Abdu'l-Baha
+> "After climbing a great hill, one only finds that there are many more hills to climb." - Nelson Mandela
