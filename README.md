@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, November 18, 2024. Quote of the day:
+Tuesday, November 19, 2024. Quote of the day:
 
-> "A sense of humor is good for you. Have you ever heard of a laughing hyena with heart burn?" - Bob Hope
+> "If you wish to be a success in the world, promise everything, deliver nothing." - Napoleon Bonaparte
