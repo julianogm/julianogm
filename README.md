@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, November 23, 2024. Quote of the day:
+Sunday, November 24, 2024. Quote of the day:
 
-> "All our dreams can come true, if we have the courage to pursue them." - Walt Disney
+> "You can be young without money; but you can't be old without it." - Tennessee Williams
