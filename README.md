@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, November 25, 2024. Quote of the day:
+Tuesday, November 26, 2024. Quote of the day:
 
-> "gg" - gg
+> "Wrinkles should merely indicate where smiles have been." - Mark Twain
