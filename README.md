@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, November 26, 2024. Quote of the day:
+Wednesday, November 27, 2024. Quote of the day:
 
-> "Wrinkles should merely indicate where smiles have been." - Mark Twain
+> "The man that hath no music in himself, Nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils." - William Shakespeare
