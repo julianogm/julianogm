@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, November 27, 2024. Quote of the day:
+Thursday, November 28, 2024. Quote of the day:
 
-> "The man that hath no music in himself, Nor is not moved with concord of sweet sounds, is fit for treasons, stratagems and spoils." - William Shakespeare
+> "All gods are homemade, and it is we who pull their strings, and so, give them the power to pull ours." - Aldous Huxley
