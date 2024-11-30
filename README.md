@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, November 29, 2024. Quote of the day:
+Saturday, November 30, 2024. Quote of the day:
 
-> "Imagination is the most marvelous, miraculous, inconceivably powerful force the world has ever known." - Napoleon Hill
+> "He who is not everyday conquering some fear has not learned the secret of life." - Ralph Waldo Emerson
