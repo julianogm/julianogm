@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, December 01, 2024. Quote of the day:
+Monday, December 02, 2024. Quote of the day:
 
-> "A man growing old becomes a child again." - Sophocles
+> "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance." - Buddha
