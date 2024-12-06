@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, December 05, 2024. Quote of the day:
+Friday, December 06, 2024. Quote of the day:
 
-> "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." - Winston Churchill
+> "If I could explain it to the average person, I wouldn't have been worth the Nobel Prize." - Richard Feynman
