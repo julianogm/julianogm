@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, December 07, 2024. Quote of the day:
+Sunday, December 08, 2024. Quote of the day:
 
-> "The secret of getting ahead is getting started." - Mark Twain
+> "Our goal is to make the best devices in the world, not to be the biggest." - Steve Jobs
