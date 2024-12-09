@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, December 08, 2024. Quote of the day:
+Monday, December 09, 2024. Quote of the day:
 
-> "Our goal is to make the best devices in the world, not to be the biggest." - Steve Jobs
+> "The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you're in control of your life. If you don't, life controls you." - Tony Robbins
