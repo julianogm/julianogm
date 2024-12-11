@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, December 10, 2024. Quote of the day:
+Wednesday, December 11, 2024. Quote of the day:
 
-> "The true method of knowledge is experiment." - William Blake
+> "I only wish that ordinary people had an unlimited capacity for doing harm then they might have an unlimited power for doing good." - Socrates
