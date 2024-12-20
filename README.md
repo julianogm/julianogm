@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, December 19, 2024. Quote of the day:
+Friday, December 20, 2024. Quote of the day:
 
-> "Even death is not to be feared by one who has lived wisely." - Buddha
+> "Diligence is the mother of luck." - Ben Franklin
