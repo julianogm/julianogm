@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, December 21, 2024. Quote of the day:
+Sunday, December 22, 2024. Quote of the day:
 
-> "When I examine myself and my methods of thought I come to the conclusion that the gift of fantasy has meant more to me than my talent for absorbing positive knowledge." - Albert Einstein
+> "To give thanks in solitude is enough. Thanksgiving has wings and goes where it must go. Your prayer knows much more about it than you do." - Victor Hugo
