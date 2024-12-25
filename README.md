@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, December 24, 2024. Quote of the day:
+Wednesday, December 25, 2024. Quote of the day:
 
-> "What we achieve inwardly will change outer reality." - Plutarch
+> "My goal has never been to dominate the market.  My goal has always just been to just make a living." - Marco Arment
