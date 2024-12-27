@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, December 26, 2024. Quote of the day:
+Friday, December 27, 2024. Quote of the day:
 
-> "Never let your schooling interfere with your education." - Priyanka
+> "Take care to sell your horse before he dies. The art of life is passing losses on." - Robert Frost
