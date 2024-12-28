@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, December 27, 2024. Quote of the day:
+Saturday, December 28, 2024. Quote of the day:
 
-> "Take care to sell your horse before he dies. The art of life is passing losses on." - Robert Frost
+> "Who is wise in love, love most, say least." - Alfred Tennyson
