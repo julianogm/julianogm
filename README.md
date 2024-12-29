@@ -6,6 +6,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, December 28, 2024. Quote of the day:
+Sunday, December 29, 2024. Quote of the day:
 
-> "Who is wise in love, love most, say least." - Alfred Tennyson
+> "I'm happy to report that 'The New Press' is still in business to this day. But not thanks to me. I was a really bad publishing intern." - Lev Grossman
