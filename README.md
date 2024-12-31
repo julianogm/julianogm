@@ -1,5 +1,4 @@
 - Working with RoR and AWS
-- Learning Go
 
 ---
 
