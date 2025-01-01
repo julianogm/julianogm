@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, December 31, 2024. Quote of the day:
+Wednesday, January 01, 2025. Quote of the day:
 
-> "We can afford to lose money – even a lot of money.  But we can’t afford to lose reputation – even a shred of reputation." - Warren Buffett
+> "In art as in love, instinct is enough." - Anatole France
