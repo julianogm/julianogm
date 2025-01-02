@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, January 01, 2025. Quote of the day:
+Thursday, January 02, 2025. Quote of the day:
 
-> "In art as in love, instinct is enough." - Anatole France
+> "Where there is love there is life." - Mahatma Gandhi
