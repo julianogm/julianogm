@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, January 06, 2025. Quote of the day:
+Tuesday, January 07, 2025. Quote of the day:
 
-> "Ability is a poor man's wealth." - Matthew Wren
+> "If you make any money, the government shoves you in the creek once a year with it in your pockets, and all that don't get wet you can keep." - Will Rogers
