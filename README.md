@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, January 08, 2025. Quote of the day:
+Thursday, January 09, 2025. Quote of the day:
 
-> "Either war is obsolete, or men are." - R. Buckminster Fuller
+> "If you make any money, the government shoves you in the creek once a year with it in your pockets, and all that don't get wet you can keep." - Will Rogers
