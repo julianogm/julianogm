@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, January 10, 2025. Quote of the day:
+Saturday, January 11, 2025. Quote of the day:
 
-> "I followed my heart, and it led me to the beach." - Anonymous
+> "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to." - Oscar Wilde
