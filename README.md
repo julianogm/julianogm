@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, January 12, 2025. Quote of the day:
+Monday, January 13, 2025. Quote of the day:
 
-> "Never underestimate the importance of fast." - Eric Schmidt
+> "Computer science is no more about computers than astronomy is about telescopes." - Edsger Dijkstra
