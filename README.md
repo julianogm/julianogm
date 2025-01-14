@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, January 13, 2025. Quote of the day:
+Tuesday, January 14, 2025. Quote of the day:
 
-> "Computer science is no more about computers than astronomy is about telescopes." - Edsger Dijkstra
+> "A bird perched on a branch is never afraid of the branch breaking.  Her trust is in her wings." - Anonymous
