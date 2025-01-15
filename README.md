@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, January 14, 2025. Quote of the day:
+Wednesday, January 15, 2025. Quote of the day:
 
-> "A bird perched on a branch is never afraid of the branch breaking.  Her trust is in her wings." - Anonymous
+> "If there is any delay in that feedback loop between thinking of something and seeing it and building on it, then there is this whole world of ideas which will never be." - Bret Victor
