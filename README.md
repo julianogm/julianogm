@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, January 16, 2025. Quote of the day:
+Friday, January 17, 2025. Quote of the day:
 
-> "Loss is nothing else but change, and change is Nature's delight." - Marcus Aurelius
+> "Courageous people do not fear forgiving, for the sake of peace." - Nelson Mandela
