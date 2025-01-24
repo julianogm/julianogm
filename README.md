@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, January 23, 2025. Quote of the day:
+Friday, January 24, 2025. Quote of the day:
 
-> "Before I speak, I have something important to say." - Groucho Marx
+> "The weeds keep multiplying in our garden, which is our mind ruled by fear. Rip them out and call them by name." - Sylvia Browne
