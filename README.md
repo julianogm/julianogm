@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, January 25, 2025. Quote of the day:
+Sunday, January 26, 2025. Quote of the day:
 
-> "Some mischievous people always there. Last several thousand years, always there. In future, also." - Dalai Lama
+> "When you come to a fork in the road, take it." - Yogi Berra
