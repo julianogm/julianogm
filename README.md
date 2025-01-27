@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, January 26, 2025. Quote of the day:
+Monday, January 27, 2025. Quote of the day:
 
-> "When you come to a fork in the road, take it." - Yogi Berra
+> "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success." - Elbert Hubbard
