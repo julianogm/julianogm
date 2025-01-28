@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, January 27, 2025. Quote of the day:
+Tuesday, January 28, 2025. Quote of the day:
 
-> "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success." - Elbert Hubbard
+> "Home is where you feel at home and are treated well." - Dalai Lama
