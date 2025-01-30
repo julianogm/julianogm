@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, January 29, 2025. Quote of the day:
+Thursday, January 30, 2025. Quote of the day:
 
-> "If you're going through hell, keep going." - Winston Churchill
+> "We are the only real aristocracy in the world: the aristocracy of money." - George Bernard Shaw
