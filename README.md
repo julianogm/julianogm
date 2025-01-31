@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, January 30, 2025. Quote of the day:
+Friday, January 31, 2025. Quote of the day:
 
-> "We are the only real aristocracy in the world: the aristocracy of money." - George Bernard Shaw
+> "Education is the ability to listen to almost anything without losing your temper or your self-confidence." - Robert Frost
