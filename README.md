@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, January 31, 2025. Quote of the day:
+Saturday, February 01, 2025. Quote of the day:
 
-> "Education is the ability to listen to almost anything without losing your temper or your self-confidence." - Robert Frost
+> "There is a real danger that computers will develop intelligence and take over. We urgently need to develop direct connections to the brain so that computers can add to human intelligence rather than be in opposition." - Stephen Hawking
