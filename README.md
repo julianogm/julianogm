@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, February 07, 2025. Quote of the day:
+Saturday, February 08, 2025. Quote of the day:
 
-> "I can resist everything except temptation." - Oscar Wilde
+> "It is by acts and not by ideas that people live." - Harry Emerson Fosdick
