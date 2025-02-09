@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, February 08, 2025. Quote of the day:
+Sunday, February 09, 2025. Quote of the day:
 
-> "It is by acts and not by ideas that people live." - Harry Emerson Fosdick
+> "If I went to work in a factory the first thing I'd do is join a union." - Franklin D. Roosevelt
