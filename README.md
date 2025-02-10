@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, February 09, 2025. Quote of the day:
+Monday, February 10, 2025. Quote of the day:
 
-> "If I went to work in a factory the first thing I'd do is join a union." - Franklin D. Roosevelt
+> "Treat those who are good with goodness, and also treat those who are not good with goodness. Thus goodness is attained. Be honest to those who are honest, and be also honest to those who are not honest. Thus honesty is attained." - Lao Tzu
