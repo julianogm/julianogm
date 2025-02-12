@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, February 11, 2025. Quote of the day:
+Wednesday, February 12, 2025. Quote of the day:
 
-> "When I was young, I thought that money was the most important thing in life; now that I am old, I know that it is." - Oscar Wilde
+> "It is by acts and not by ideas that people live." - Harry Emerson Fosdick
