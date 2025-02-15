@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, February 14, 2025. Quote of the day:
+Saturday, February 15, 2025. Quote of the day:
 
-> "Success is never final, failure is never fatal. It's courage that counts." - John Wooden
+> "Knowledge will give you power, but character respect." - Bruce Lee
