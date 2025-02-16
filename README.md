@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, February 15, 2025. Quote of the day:
+Sunday, February 16, 2025. Quote of the day:
 
-> "Knowledge will give you power, but character respect." - Bruce Lee
+> "Art is making something out of nothing and selling it." - Frank Zappa
