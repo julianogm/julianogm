@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, February 24, 2025. Quote of the day:
+Tuesday, February 25, 2025. Quote of the day:
 
-> "A pair of powerful spectacles has sometimes sufficed to cure a person in love." - Friedrich Nietzsche
+> "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either." - Albert Einstein
