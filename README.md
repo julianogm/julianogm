@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, February 25, 2025. Quote of the day:
+Wednesday, February 26, 2025. Quote of the day:
 
-> "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either." - Albert Einstein
+> "As we advance in life it becomes more and more difficult, but in fighting the difficulties the inmost strength of the heart is developed." - Vincent Van Gogh
