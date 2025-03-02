@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, March 01, 2025. Quote of the day:
+Sunday, March 02, 2025. Quote of the day:
 
-> "Be kind, for everyone you meet is fighting a hard battle." - Ian MacLaren
+> "People disparage knowing and the intellectual life, and urge doing. I am content with knowing, if only I could know." - Ralph Waldo Emerson
