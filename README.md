@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, March 02, 2025. Quote of the day:
+Monday, March 03, 2025. Quote of the day:
 
-> "People disparage knowing and the intellectual life, and urge doing. I am content with knowing, if only I could know." - Ralph Waldo Emerson
+> "Art is not the application of a canon of beauty but what the instinct and the brain can conceive beyond any canon. When we love a woman we don't start measuring her limbs." - Pablo Picasso
