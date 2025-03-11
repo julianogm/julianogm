@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, March 10, 2025. Quote of the day:
+Tuesday, March 11, 2025. Quote of the day:
 
-> "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship." - Buddha
+> "Courage stands halfway between cowardice and rashness, one of which is a lack, the other an excess of courage." - Plutarch
