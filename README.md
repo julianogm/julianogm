@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, March 15, 2025. Quote of the day:
+Sunday, March 16, 2025. Quote of the day:
 
-> "It all starts with the will to do something" - Anonymous
+> "We have forty million reasons for failure, but not a single excuse." - Rudyard Kipling
