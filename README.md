@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, March 17, 2025. Quote of the day:
+Tuesday, March 18, 2025. Quote of the day:
 
-> "Hitch your wagon to a star." - Ralph Waldo Emerson
+> "The highest revelation is that God is in every man." - Ralph Waldo Emerson
