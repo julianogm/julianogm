@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, March 19, 2025. Quote of the day:
+Thursday, March 20, 2025. Quote of the day:
 
-> "I do not believe in the God of theology who rewards good and punishes evil." - Albert Einstein
+> "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul." - John Muir
