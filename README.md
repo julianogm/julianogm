@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, March 20, 2025. Quote of the day:
+Friday, March 21, 2025. Quote of the day:
 
-> "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul." - John Muir
+> "Silence alone is worthy to be heard." - Henry David Thoreau
