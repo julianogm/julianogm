@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, March 24, 2025. Quote of the day:
+Tuesday, March 25, 2025. Quote of the day:
 
-> "Speed is product feature number one." - Larry Page
+> "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking." - Albert Einstein
