@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, March 28, 2025. Quote of the day:
+Saturday, March 29, 2025. Quote of the day:
 
-> "Everyone enjoys doing the kind of work for which he is best suited." - Napoleon Hill
+> "People are not judging YOU, they are telling you who THEY are." - - Jim Fortin
