@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, March 29, 2025. Quote of the day:
+Sunday, March 30, 2025. Quote of the day:
 
-> "People are not judging YOU, they are telling you who THEY are." - - Jim Fortin
+> "But time growing old teaches all things." - Aeschylus
