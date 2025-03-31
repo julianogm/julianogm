@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, March 30, 2025. Quote of the day:
+Monday, March 31, 2025. Quote of the day:
 
-> "But time growing old teaches all things." - Aeschylus
+> "Words have no power to impress the mind without the exquisite horror of their reality." - Edgar Allan Poe
