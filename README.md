@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, March 31, 2025. Quote of the day:
+Tuesday, April 01, 2025. Quote of the day:
 
-> "Words have no power to impress the mind without the exquisite horror of their reality." - Edgar Allan Poe
+> "It is not doing the thing we like to do, but liking the thing we have to do, that makes life blessed." - Johann Wolfgang von Goethe
