@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, April 09, 2025. Quote of the day:
+Thursday, April 10, 2025. Quote of the day:
 
-> "Don't be too timid and squeamish about your actions. All life is an experiment." - Ralph Waldo Emerson
+> "Untutored courage is useless in the face of educated bullets." - George S. Patton
