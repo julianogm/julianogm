@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, April 10, 2025. Quote of the day:
+Friday, April 11, 2025. Quote of the day:
 
-> "Untutored courage is useless in the face of educated bullets." - George S. Patton
+> "The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity." - Ruby Dee
