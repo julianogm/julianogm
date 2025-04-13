@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, April 12, 2025. Quote of the day:
+Sunday, April 13, 2025. Quote of the day:
 
-> "The game is won one play at a time." - Anonymous
+> "When I examine myself and my methods of thought I come to the conclusion that the gift of fantasy has meant more to me than my talent for absorbing positive knowledge." - Albert Einstein
