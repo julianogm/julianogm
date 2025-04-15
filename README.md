@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, April 14, 2025. Quote of the day:
+Tuesday, April 15, 2025. Quote of the day:
 
-> "There's no present. There's only the immediate future and the recent past." - George Carlin
+> "Real difficulties can be overcome; it is only the imaginary ones that are unconquerable" - Theodore N. Vail
