@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, April 15, 2025. Quote of the day:
+Wednesday, April 16, 2025. Quote of the day:
 
-> "Real difficulties can be overcome; it is only the imaginary ones that are unconquerable" - Theodore N. Vail
+> "There are worse things in life than death. Have you ever spent an evening with an insurance salesman?" - Woody Allen
