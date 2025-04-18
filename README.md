@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, April 17, 2025. Quote of the day:
+Friday, April 18, 2025. Quote of the day:
 
-> "In politics stupidity is not a handicap." - Napoleon Bonaparte
+> "Men can only be happy when they do not assume that the object of life is happiness." - George Orwell
