@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, April 19, 2025. Quote of the day:
+Sunday, April 20, 2025. Quote of the day:
 
-> "可得解脱处，唯山水间和神佛前。" - IKON
+> "If there is any delay in that feedback loop between thinking of something and seeing it and building on it, then there is this whole world of ideas which will never be." - Bret Victor
