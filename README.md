@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, April 20, 2025. Quote of the day:
+Monday, April 21, 2025. Quote of the day:
 
-> "If there is any delay in that feedback loop between thinking of something and seeing it and building on it, then there is this whole world of ideas which will never be." - Bret Victor
+> "Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting." - George Orwell
