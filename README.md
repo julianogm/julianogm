@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, April 23, 2025. Quote of the day:
+Thursday, April 24, 2025. Quote of the day:
 
-> "Climb the mountains and get their good tidings." - John Muir
+> "Women are never disarmed by compliments. Men always are. That is the difference between the sexes." - Oscar Wilde
