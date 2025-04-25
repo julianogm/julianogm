@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, April 24, 2025. Quote of the day:
+Friday, April 25, 2025. Quote of the day:
 
-> "Women are never disarmed by compliments. Men always are. That is the difference between the sexes." - Oscar Wilde
+> "Everybody has something that chews them up and, for me, that thing was always loneliness. The cinema has the power to make you not feel lonely, even when you are." - Tom Hanks
