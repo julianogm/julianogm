@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, April 27, 2025. Quote of the day:
+Monday, April 28, 2025. Quote of the day:
 
-> "Lovers who love truly do not write down their happiness." - Anatole France
+> "The end move in politics is always to pick up a gun." - R. Buckminster Fuller
