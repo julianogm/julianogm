@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, April 28, 2025. Quote of the day:
+Tuesday, April 29, 2025. Quote of the day:
 
-> "The end move in politics is always to pick up a gun." - R. Buckminster Fuller
+> "People disparage knowing and the intellectual life, and urge doing. I am content with knowing, if only I could know." - Ralph Waldo Emerson
