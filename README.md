@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, April 29, 2025. Quote of the day:
+Wednesday, April 30, 2025. Quote of the day:
 
-> "People disparage knowing and the intellectual life, and urge doing. I am content with knowing, if only I could know." - Ralph Waldo Emerson
+> "Liberty consists in the power of doing that which is permitted by the law." - Marcus Tullius Cicero
