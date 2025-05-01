@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, April 30, 2025. Quote of the day:
+Thursday, May 01, 2025. Quote of the day:
 
-> "Liberty consists in the power of doing that which is permitted by the law." - Marcus Tullius Cicero
+> "Evolution never looks to the future." - Richard Dawkins
