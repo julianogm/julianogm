@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, May 04, 2025. Quote of the day:
+Monday, May 05, 2025. Quote of the day:
 
-> "Half the lies they tell about me aren't true." - Yogi Berra
+> "Do your work with your whole heart, and you will succeed - there's so little competition." - Elbert Hubbard
