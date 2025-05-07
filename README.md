@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, May 06, 2025. Quote of the day:
+Wednesday, May 07, 2025. Quote of the day:
 
-> "Yo. Gatorade me, b---h!" - Jesse Pinkman
+> "True art is characterized by an irresistible urge in the creative artist." - Albert Einstein
