@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, May 08, 2025. Quote of the day:
+Friday, May 09, 2025. Quote of the day:
 
-> "People love chopping wood. In this activity one immediately sees results." - Albert Einstein
+> "Success comes from taking the initiative and following up... persisting... eloquently expressing the depth of your love. What simple action could you take today to produce a new momentum toward success in your life?" - Tony Robbins
