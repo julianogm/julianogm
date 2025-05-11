@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, May 10, 2025. Quote of the day:
+Sunday, May 11, 2025. Quote of the day:
 
-> "Only men who are not interested in women are interested in women's clothes. Men who like women never notice what they wear." - Anatole France
+> "A fanatic is one who can't change his mind and won't change the subject." - Winston Churchill
