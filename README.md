@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, May 11, 2025. Quote of the day:
+Monday, May 12, 2025. Quote of the day:
 
-> "A fanatic is one who can't change his mind and won't change the subject." - Winston Churchill
+> "Success doesn't come to you... you go to it." - Marva Collins
