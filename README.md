@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, May 12, 2025. Quote of the day:
+Tuesday, May 13, 2025. Quote of the day:
 
-> "Success doesn't come to you... you go to it." - Marva Collins
+> "I am only one; but still I am one. I cannot do everything; but still I can do something. I will not refuse to do the something I can do." - Helen Keller
