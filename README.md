@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, May 13, 2025. Quote of the day:
+Wednesday, May 14, 2025. Quote of the day:
 
-> "I am only one; but still I am one. I cannot do everything; but still I can do something. I will not refuse to do the something I can do." - Helen Keller
+> "It is not length of life, but depth of life." - Ralph Waldo Emerson
