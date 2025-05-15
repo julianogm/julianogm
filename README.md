@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, May 14, 2025. Quote of the day:
+Thursday, May 15, 2025. Quote of the day:
 
-> "It is not length of life, but depth of life." - Ralph Waldo Emerson
+> "A man's got to take a lot of punishment to write a really funny book." - Ernest Hemingway
