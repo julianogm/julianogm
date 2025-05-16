@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, May 15, 2025. Quote of the day:
+Friday, May 16, 2025. Quote of the day:
 
-> "A man's got to take a lot of punishment to write a really funny book." - Ernest Hemingway
+> "Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now." - Denis Waitley
