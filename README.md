@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, May 16, 2025. Quote of the day:
+Saturday, May 17, 2025. Quote of the day:
 
-> "Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now." - Denis Waitley
+> "My goal has never been to dominate the market.  My goal has always just been to just make a living." - Marco Arment
