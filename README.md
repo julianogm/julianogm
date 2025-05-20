@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, May 19, 2025. Quote of the day:
+Tuesday, May 20, 2025. Quote of the day:
 
-> "Thats the thing with magic; you’ve got to know that its still here, all around us, or it just stays invisible for you." - Charles de Lint
+> "Far and away the best prize that life has to offer is the chance to work hard at work worth doing." - Theodore Roosevelt
