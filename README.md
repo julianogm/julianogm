@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, May 20, 2025. Quote of the day:
+Wednesday, May 21, 2025. Quote of the day:
 
-> "Far and away the best prize that life has to offer is the chance to work hard at work worth doing." - Theodore Roosevelt
+> "If God did not exist, it would be necessary to invent Him." - Voltaire
