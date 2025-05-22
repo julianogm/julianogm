@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, May 21, 2025. Quote of the day:
+Thursday, May 22, 2025. Quote of the day:
 
-> "If God did not exist, it would be necessary to invent Him." - Voltaire
+> "America is the most grandiose experiment the world has seen, but, I am afraid, it is not going to be a success." - Sigmund Freud
