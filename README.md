@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, May 25, 2025. Quote of the day:
+Monday, May 26, 2025. Quote of the day:
 
-> "In time of war the laws are silent." - Marcus Tullius Cicero
+> "Imagination decides everything." - Blaise Pascal
