@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, May 26, 2025. Quote of the day:
+Tuesday, May 27, 2025. Quote of the day:
 
-> "Imagination decides everything." - Blaise Pascal
+> "If I went to work in a factory the first thing I'd do is join a union." - Franklin D. Roosevelt
