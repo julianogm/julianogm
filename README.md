@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, May 27, 2025. Quote of the day:
+Wednesday, May 28, 2025. Quote of the day:
 
-> "If I went to work in a factory the first thing I'd do is join a union." - Franklin D. Roosevelt
+> "The best artist has that thought alone Which is contained within the marble shell The sculptor's hand can only break the spell To free the figures slumbering in the stone." - Michelangelo
