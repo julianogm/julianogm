@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, June 06, 2025. Quote of the day:
+Saturday, June 07, 2025. Quote of the day:
 
-> "I would rather walk with a friend in the dark than walk alone in the light." - Helen Keller
+> "Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed." - Mwai Kibaki
