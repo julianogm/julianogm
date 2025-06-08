@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, June 07, 2025. Quote of the day:
+Sunday, June 08, 2025. Quote of the day:
 
-> "Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed." - Mwai Kibaki
+> "The words of truth are always paradoxical." - Lao Tzu
