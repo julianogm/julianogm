@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, June 08, 2025. Quote of the day:
+Monday, June 09, 2025. Quote of the day:
 
-> "The words of truth are always paradoxical." - Lao Tzu
+> "You can't connect the dots looking forward you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life." - Steve Jobs
