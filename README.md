@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Tuesday, June 10, 2025. Quote of the day:
+Wednesday, June 11, 2025. Quote of the day:
 
-> "Faith, there hath been many great men that have flattered the people who ne'er loved them." - William Shakespeare
+> "The purpose of a business is to create a customer." - Peter Drucker
