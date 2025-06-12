@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Wednesday, June 11, 2025. Quote of the day:
+Thursday, June 12, 2025. Quote of the day:
 
-> "The purpose of a business is to create a customer." - Peter Drucker
+> "Winning is only half of it. Having fun is the other half." - Bum Phillips
