@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, June 12, 2025. Quote of the day:
+Friday, June 13, 2025. Quote of the day:
 
-> "Winning is only half of it. Having fun is the other half." - Bum Phillips
+> "There's no 'deep stat' looking to bring down elected officials and political leaders that represents a deep-seated center of power. . .but it's true in a way that should cause Americans to sleep better at night. There's a culture in the military, in the intelligence agencies, and in law enforcement that's rooted in the rule of law and reverence for the Constitution." - James Comey;  James B. Stewart: The Truth About the ‘Deep State,’ Donald Trump, and Jeffrey Epstein
