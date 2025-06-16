@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, June 15, 2025. Quote of the day:
+Monday, June 16, 2025. Quote of the day:
 
-> "And if you don't believe the sun will rise, stand alone and greet the coming night in the last remaining light." - Chris Cornell
+> "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill." - Buddha
