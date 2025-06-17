@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Monday, June 16, 2025. Quote of the day:
+Tuesday, June 17, 2025. Quote of the day:
 
-> "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill." - Buddha
+> "Can you imagine what I would do if I could do all I can?" - Sun Tzu
