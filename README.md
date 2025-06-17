@@ -1,4 +1,4 @@
-- Working with RoR and AWS
+- Solving problems and turning ideas into code.
 
 ---
 
