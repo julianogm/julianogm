@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Thursday, June 19, 2025. Quote of the day:
+Friday, June 20, 2025. Quote of the day:
 
-> "You have to take risks. We will only understand the miracle of life fully when we allow the unexpected to happen." - Paulo Coelho
+> "Learning to program teaches you how to think. Computer science is a liberal art." - Steve Jobs
