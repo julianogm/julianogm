@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Friday, June 20, 2025. Quote of the day:
+Saturday, June 21, 2025. Quote of the day:
 
-> "Learning to program teaches you how to think. Computer science is a liberal art." - Steve Jobs
+> "We have wasted History like a bunch of drunks shooting dice back in the men's crapper of the local bar." - Charles Bukowski
