@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Saturday, June 21, 2025. Quote of the day:
+Sunday, June 22, 2025. Quote of the day:
 
-> "We have wasted History like a bunch of drunks shooting dice back in the men's crapper of the local bar." - Charles Bukowski
+> "It seems like every time you come up something happens to bring you back down." - Tupac Shakur
