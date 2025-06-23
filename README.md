@@ -5,6 +5,6 @@
 <br>
 
 <!-- quote_marker -->
-Sunday, June 22, 2025. Quote of the day:
+Monday, June 23, 2025. Quote of the day:
 
-> "It seems like every time you come up something happens to bring you back down." - Tupac Shakur
+> "If it isn't your job to, perhaps it's your opportunity." - Anonymous
