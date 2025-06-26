@@ -7,4 +7,4 @@
 <!-- quote_marker -->
 Thursday, June 26, 2025. Quote of the day:
 
-> "Williams-Nelson" - Joshua Munoz
+> "Everything has beauty, but not everyone sees it." - Confucius
