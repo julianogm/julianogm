@@ -9,4 +9,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <!-- quote_marker -->
 #### Saturday, June 28, 2025. Quote of the day:
 
-> "No one has a right to consume happiness without producing it." - Helen Keller
+> "At twenty years of age the will reigns; at thirty, the wit and at forty, the judgment." - Benjamin Franklin
