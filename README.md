@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Saturday, June 28, 2025. Quote of the day:
+#### Sunday, June 29, 2025. Quote of the day:
 
-> "At twenty years of age the will reigns; at thirty, the wit and at forty, the judgment." - Benjamin Franklin
+> "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books." - Benjamin Franklin
