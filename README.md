@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Sunday, June 29, 2025. Quote of the day:
+#### Monday, June 30, 2025. Quote of the day:
 
-> "From a child I was fond of reading, and all the little money that came into my hands was ever laid out in books." - Benjamin Franklin
+> "Poor David Hume is dying fast, but with more real cheerfulness and good humor and with more real resignation to the necessary course of things, than any whining Christian ever dyed with pretended resignation to the will of God." - Adam Smith
