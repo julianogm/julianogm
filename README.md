@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Wednesday, July 02, 2025. Quote of the day:
+#### Thursday, July 03, 2025. Quote of the day:
 
-> "You will never do anything in this world without courage. It is the greatest quality of the mind next to honor." - Aristotle
+> "No change in musical style will survive unless it is accompanied by a change in clothing style. Rock is to dress up to." - Frank Zappa
