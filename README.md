@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Sunday, July 06, 2025. Quote of the day:
+#### Monday, July 07, 2025. Quote of the day:
 
-> "Individual science fiction stories may seem as trivial as ever to the blinder critics and philosophers of today - but the core of science fiction, its essence has become crucial to our salvation if we are to be saved at all." - Isaac Asimov
+> "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man." - Sun Tzu
