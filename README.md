@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Monday, July 07, 2025. Quote of the day:
+#### Tuesday, July 08, 2025. Quote of the day:
 
-> "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man." - Sun Tzu
+> "Most people wouldn't know music if it came up and bit them on the a-s." - Frank Zappa
