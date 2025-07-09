@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Tuesday, July 08, 2025. Quote of the day:
+#### Wednesday, July 09, 2025. Quote of the day:
 
-> "Most people wouldn't know music if it came up and bit them on the a-s." - Frank Zappa
+> "My attitude is that if you push me towards something that you think is a weakness, then I will turn that perceived weakness into a strength." - Michael Jordan
