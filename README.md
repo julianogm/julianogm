@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Saturday, July 12, 2025. Quote of the day:
+#### Sunday, July 13, 2025. Quote of the day:
 
-> "If I'd listened to customers, I'd have given them a faster horse." - Henry Ford
+> "The greatest way to live with honor in this world is to be what we pretend to be." - Socrates
