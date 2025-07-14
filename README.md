@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Sunday, July 13, 2025. Quote of the day:
+#### Monday, July 14, 2025. Quote of the day:
 
-> "The greatest way to live with honor in this world is to be what we pretend to be." - Socrates
+> "To know yet to think that one does not know is best; Not to know yet to think that one knows will lead to difficulty." - Lao Tzu
