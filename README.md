@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Wednesday, July 16, 2025. Quote of the day:
+#### Thursday, July 17, 2025. Quote of the day:
 
-> "In order to change the world, you have to get your head together first." - Jimi Hendrix
+> "Where there is shouting, there is no true knowledge." - Leonardo da Vinci
