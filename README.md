@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Thursday, July 17, 2025. Quote of the day:
+#### Friday, July 18, 2025. Quote of the day:
 
-> "Where there is shouting, there is no true knowledge." - Leonardo da Vinci
+> "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth." - Arthur Conan Doyle
