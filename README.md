@@ -7,6 +7,6 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 <br>
 
 <!-- quote_marker -->
-#### Sunday, July 20, 2025. Quote of the day:
+#### Monday, July 21, 2025. Quote of the day:
 
-> "Everybody talks about the weather, but nobody does anything about it." - Mark Twain
+> "I do not agree with what you have to say, but I'll defend to the death your right to say it." - Voltaire
