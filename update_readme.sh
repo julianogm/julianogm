@@ -39,14 +39,11 @@ current_date=$(date +"%A, %B %d, %Y")
 marker="<!-- quote_marker -->"
 tmp_file=$(mktemp)
 
-date="#### $current_date. Quote of the day:\n"
-
-awk -v marker="$marker" -v date_msg="$date" -v quote="> \"$quote\" - $author" '
+awk -v marker="$marker" -v quote="> \"$quote\" - $author" '
 BEGIN { found_marker = 0 }
 {
   print;
   if ($0 == marker) {
-    print date_msg;
     print quote;
     exit;
   }

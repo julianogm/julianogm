@@ -6,7 +6,7 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 <br>
 
+#### Quote of the week:
 <!-- quote_marker -->
-#### Wednesday, July 23, 2025. Quote of the day:
 
 > "Life and death are one thread, the same line viewed from different sides." - Lao Tzu

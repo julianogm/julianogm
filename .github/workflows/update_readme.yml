@@ -1,4 +1,4 @@
-name: Update README with Daily Quote
+name: Update README with Weekly Quote
 
 on:
   workflow_dispatch:
@@ -6,12 +6,39 @@ on:
     - cron: "0 7 * * *"
 
 jobs:
-  update-readme:
+  choose-day:
     runs-on: ubuntu-latest
+    outputs:
+      run_job: ${{ steps.check_day.outputs.run_job }}
+    steps:
+      - name: Check if today is the lucky weekday
+        id: check_day
+        run: |
+          # 1=Segunda, 6=Sábado, 7=Domingo
+          CURRENT_DAY=$(date +%u)
 
+          # Se Sábado ou Domingo, não roda
+          if [ "$CURRENT_DAY" -ge 6 ]; then
+            echo "run_job=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Gera um numero de 1 a 5 (Segunda a Sexta) pra executar o job
+          JOB_DAY=$(($(date +%U) % 5 + 1))
+
+          if [ "$JOB_DAY" -eq "$CURRENT_DAY" ]; then
+            echo "run_job=true" >> $GITHUB_OUTPUT
+          else
+            echo "run_job=false" >> $GITHUB_OUTPUT
+          fi
+
+  update-readme:
+    needs: choose-day
+    if: ${{ needs.choose-day.outputs.run_job == 'true' }}
+    runs-on: ubuntu-latest
     steps:
       - name: Repo checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Run update_readme.sh
         env:
