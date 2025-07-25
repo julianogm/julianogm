@@ -8,5 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-
-> "Life and death are one thread, the same line viewed from different sides." - Lao Tzu
+> "The only fence against the world is a thorough knowledge of it." - John Locke
