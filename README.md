@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "We can be thankful to a friend for a few acres, or a little money and yet for the freedom and command of the whole earth, and for the great benefits of our being, our life, health, and reason, we look upon ourselves as under no obligation." - Lucius Annaeus Seneca
+> "Courage is the first of human qualities because it is the quality which guarantees the others." - Aristotle
