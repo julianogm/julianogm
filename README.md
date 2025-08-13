@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Courage is the first of human qualities because it is the quality which guarantees the others." - Aristotle
+> "Quitting smoking is easy. I've done it a thousand times." - Mark Twain
