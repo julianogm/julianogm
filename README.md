@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Quitting smoking is easy. I've done it a thousand times." - Mark Twain
+> "The mind that is anxious about the future is miserable." - Lucius Annaeus Seneca
