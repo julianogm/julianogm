@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The mind that is anxious about the future is miserable." - Lucius Annaeus Seneca
+> "God's most lordly gift to man is decency of mind." - Aeschylus
