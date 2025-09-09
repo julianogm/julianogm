@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The computer can't tell you the emotional story. It can give you the exact mathematical design, but what's missing is the eyebrows." - Frank Zappa
+> "The best government is a benevolent tyranny tempered by an occasional assassination." - Voltaire
