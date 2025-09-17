@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The best government is a benevolent tyranny tempered by an occasional assassination." - Voltaire
+> "Politics is the entertainment branch of industry." - Frank Zappa
