@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Politics is the entertainment branch of industry." - Frank Zappa
+> "Truthful words are not beautiful beautiful words are not truthful. Good words are not persuasive persuasive words are not good." - Lao Tzu
