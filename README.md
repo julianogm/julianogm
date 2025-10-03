@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Truthful words are not beautiful beautiful words are not truthful. Good words are not persuasive persuasive words are not good." - Lao Tzu
+> "Run for your life from any man who tells you that money is evil. That sentence is the leper's bell of an approaching looter." - Ayn Rand
