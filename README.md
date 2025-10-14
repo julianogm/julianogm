@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "There is a single light of science, and to brighten it anywhere is to brighten it everywhere." - Isaac Asimov
+> "If money is your hope for independence you will never have it. The only real security that a man will have in this world is a reserve of knowledge, experience, and ability." - Henry Ford
