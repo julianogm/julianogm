@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "It is not death that a man should fear, but he should fear never beginning to live." - Marcus Aurelius
+> "No man should bring children into the world who is unwilling to persevere to the end in their nature and education." - Plato
