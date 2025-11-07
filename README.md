@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "No man should bring children into the world who is unwilling to persevere to the end in their nature and education." - Plato
+> "By Time and Age full many things are taught." - Aeschylus
