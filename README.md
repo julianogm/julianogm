@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "We have time, there's no big rush." - Jimi Hendrix
+> "In war as in life, it is often necessary when some cherished scheme has failed, to take up the best alternative open, and if so, it is folly not to work for it with all your might." - Winston Churchill
