@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "In war as in life, it is often necessary when some cherished scheme has failed, to take up the best alternative open, and if so, it is folly not to work for it with all your might." - Winston Churchill
+> "In our age there is no such thing as 'keeping out of politics.' All issues are political issues, and politics itself is a mass of lies, evasions, folly, hatred and schizophrenia." - George Orwell
