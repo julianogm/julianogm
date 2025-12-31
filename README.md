@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Eros will have naked bodies; Friendship naked personalities." - C. S. Lewis
+> "Most people wouldn't know music if it came up and bit them on the a-s." - Frank Zappa
