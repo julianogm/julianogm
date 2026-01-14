@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The art of medicine consists in amusing the patient while nature cures the disease." - Voltaire
+> "God is not on the side of the big battalions, but on the side of those who shoot best." - Voltaire
