@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Here is the rule to remember in the future, When anything tempts you to be bitter: not, 'This is a misfortune' but 'To bear this worthily is good fortune.'" - Marcus Aurelius
+> "Change in all things is sweet." - Aristotle
