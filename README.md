@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Change in all things is sweet." - Aristotle
+> "The reason why men enter into society is the preservation of their property." - John Locke
