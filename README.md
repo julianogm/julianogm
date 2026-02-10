@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The reason why men enter into society is the preservation of their property." - John Locke
+> "To know yet to think that one does not know is best; Not to know yet to think that one knows will lead to difficulty." - Lao Tzu
