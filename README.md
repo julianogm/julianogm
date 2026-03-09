@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "It is more shameful to distrust our friends than to be deceived by them." - Confucius
+> "Most of the energy of political work is devoted to correcting the effects of mismanagement of government." - Milton Friedman
