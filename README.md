@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Most of the energy of political work is devoted to correcting the effects of mismanagement of government." - Milton Friedman
+> "Literature adds to reality, it does not simply describe it. It enriches the necessary competencies that daily life requires and provides and in this respect, it irrigates the deserts that our lives have already become." - C. S. Lewis
