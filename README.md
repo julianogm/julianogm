@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Science fiction writers foresee the inevitable, and although problems and catastrophes may be inevitable, solutions are not." - Isaac Asimov
+> "Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody's power and is not easy." - Aristotle
