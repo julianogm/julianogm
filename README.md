@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "You can't build a reputation on what you are going to do." - Henry Ford
+> "Then not only custom, but also nature affirms that to do is more disgraceful than to suffer injustice, and that justice is equality." - Plato
