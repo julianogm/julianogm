@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "It is vain for the coward to flee death follows close behind it is only by defying it that the brave escape." - Voltaire
+> "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength." - Lao Tzu
