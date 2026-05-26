@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Simulated disorder postulates perfect discipline; simulated fear postulates courage; simulated weakness postulates strength." - Lao Tzu
+> "The human foot is a masterpiece of engineering and a work of art." - Leonardo da Vinci
