@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The human foot is a masterpiece of engineering and a work of art." - Leonardo da Vinci
+> "As a well-spent day brings happy sleep, so a life well spent brings happy death." - Leonardo da Vinci
