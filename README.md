@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "A well-spent day brings happy sleep." - Leonardo da Vinci
+> "Cynical realism is the intelligent man's best excuse for doing nothing in an intolerable situation." - Aldous Huxley
