@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Cynical realism is the intelligent man's best excuse for doing nothing in an intolerable situation." - Aldous Huxley
+> "The future is something which everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is." - C. S. Lewis
