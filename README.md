@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The future is something which everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is." - C. S. Lewis
+> "I didn't have time to write a short letter, so I wrote a long one instead." - Mark Twain
