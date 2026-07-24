@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "It is vain for the coward to flee death follows close behind it is only by defying it that the brave escape." - Voltaire
+> "Concentrated power is not rendered harmless by the good intentions of those who create it." - Milton Friedman
