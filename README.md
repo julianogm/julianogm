@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Concentrated power is not rendered harmless by the good intentions of those who create it." - Milton Friedman
+> "If we don't know life, how can we know death?" - Confucius
