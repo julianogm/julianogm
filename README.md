@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "If we don't know life, how can we know death?" - Confucius
+> "I do not concern myself with gods and spirits either good or evil nor do I serve any." - Lao Tzu
