@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "I do not concern myself with gods and spirits either good or evil nor do I serve any." - Lao Tzu
+> "Hell isn't merely paved with good intentions it's walled and roofed with them. Yes, and furnished too." - Aldous Huxley
