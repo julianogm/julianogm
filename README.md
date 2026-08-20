@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Hell isn't merely paved with good intentions it's walled and roofed with them. Yes, and furnished too." - Aldous Huxley
+> "It is vain for the coward to flee death follows close behind it is only by defying it that the brave escape." - Voltaire
