@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "It is vain for the coward to flee death follows close behind it is only by defying it that the brave escape." - Voltaire
+> "The most important part of education is proper training in the nursery." - Plato
