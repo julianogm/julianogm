@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The most important part of education is proper training in the nursery." - Plato
+> "Change in all things is sweet." - Aristotle
