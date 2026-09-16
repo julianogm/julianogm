@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "God loves to help him who strives to help himself." - Aeschylus
+> "Where fear is, happiness is not." - Lucius Annaeus Seneca
