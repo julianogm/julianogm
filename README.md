@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Where fear is, happiness is not." - Lucius Annaeus Seneca
+> "The only way that has ever been discovered to have a lot of people cooperate together voluntarily is through the free market. And that's why it's so essential to preserving individual freedom." - Milton Friedman
