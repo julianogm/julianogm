@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The only way that has ever been discovered to have a lot of people cooperate together voluntarily is through the free market. And that's why it's so essential to preserving individual freedom." - Milton Friedman
+> "The Great Depression, like most other periods of severe unemployment, was produced by government mismanagement rather than by any inherent instability of the private economy." - Milton Friedman
