@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "The Great Depression, like most other periods of severe unemployment, was produced by government mismanagement rather than by any inherent instability of the private economy." - Milton Friedman
+> "Nothing is so intolerable to man as being fully at rest, without a passion, without business, without entertainment, without care." - Blaise Pascal
