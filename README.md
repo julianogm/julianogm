@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "No one ever told me that grief felt so like fear." - C. S. Lewis
+> "It takes more than capital to swing business. You've got to have the A. I. D. degree to get by - Advertising, Initiative, and Dynamics." - Isaac Asimov
