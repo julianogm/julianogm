@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Freedom is the right to tell people what they do not want to hear." - George Orwell
+> "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen." - Mark Twain
