@@ -8,4 +8,4 @@ Currently working with Ruby on Rails, React, MySQL and AWS
 
 #### Quote of the week:
 <!-- quote_marker -->
-> "Life would be infinitely happier if we could only be born at the age of eighty and gradually approach eighteen." - Mark Twain
+> "I have always thought the actions of men the best interpreters of their thoughts." - John Locke
